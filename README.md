@@ -1,6 +1,6 @@
 # Exercises for MPC course
 
-This dedicated course in model predictive control (MPC) was given by Prof. Mazen Alamir, from September to November 2020. 
+This dedicated course in Model Predictive Control (MPC) was given by Prof. Mazen Alamir, from September to November 2020. 
 
 Its content can be found at https://www.mazenalamir.fr/MPC/.
 
