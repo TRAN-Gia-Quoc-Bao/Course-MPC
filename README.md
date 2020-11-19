@@ -26,4 +26,4 @@ Contents:
 
 8. Checkpoint 8: Implementing constrained MPC for LTI systems
 
-9. Checkpoint 9: Implementing Nonlinear constrained MPC using Casadi
+9. Checkpoint 9: Implementing nonlinear constrained MPC using Casadi
