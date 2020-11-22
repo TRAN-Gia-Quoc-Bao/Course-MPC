@@ -28,4 +28,4 @@ Contents:
 
 9. Checkpoint 9: Implementing nonlinear constrained MPC using Casadi
 
-![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-MPC/blob/main/logoUGA.png)
+![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-MPC/blob/main/logoUGA.jpg)
